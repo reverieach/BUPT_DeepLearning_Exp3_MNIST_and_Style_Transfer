@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "adca8ec5e66e41b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1575f6fe13305f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3ac2b90b3c1603e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "风格迁移实验报告.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "风格迁移实验报告"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25c25a0bdd7c7972",
+    "type": "split",
+    "children": [
+      {
+        "id": "1073112546c7d383",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fa9f473fb7fe518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d585f99dc1e3e6b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "48ac99345e8005eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7dbcbc04c285b780",
+    "type": "split",
+    "children": [
+      {
+        "id": "f901968cd9f96270",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c277d4877e7cde5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "风格迁移实验报告.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "风格迁移实验报告 的反向链接列表"
+            }
+          },
+          {
+            "id": "f88404f1279914c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "风格迁移实验报告.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "风格迁移实验报告 的出链列表"
+            }
+          },
+          {
+            "id": "3c441ffccb14232f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "40db9a91f2fa4fea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "42a72cc5a5867f73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "风格迁移实验报告.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "风格迁移实验报告 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false
+    }
+  },
+  "active": "f3ac2b90b3c1603e",
+  "lastOpenFiles": [
+    "d1796381f5e6867fec4c49e1a753a4da.png",
+    "风格迁移实验报告.md",
+    "976184294cce024872cd8550a7a7fcfe.png"
+  ]
+}

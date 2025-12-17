@@ -1,0 +1,27 @@
+# Datasets (Too large for GitHub)
+datasets/
+data/
+MNIST_Autoencoder/data/
+
+# Python & Environment
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+*.env
+venv/
+env/
+
+# Training Artifacts (Optional: Comment out if you want to upload models)
+*.pth
+*.pth.tar
+pytorch-AdaIN/experiments/
+pytorch-AdaIN/logs/
+
+# Tensorboard
+runs/
+
+# System
+Thumbs.db
+Desktop.ini
